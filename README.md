@@ -6,3 +6,4 @@ I learnt a series of information including:
 - Security Assessments
 - Risk Assessments
 - Incident Report Analysis
+- Hash Comparisons
